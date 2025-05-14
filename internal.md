@@ -1,0 +1,2 @@
+[Stroke-based semantic segmentation for scene-level free-hand sketches](https://doi.org/10.1007/s00371-022-02731-8)
+[Open Vocabulary Semantic Scene Sketch Understanding](https://ahmedbourouis.github.io/Scene_Sketch_Segmentation/)
